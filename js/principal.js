@@ -5,7 +5,7 @@ programarBtn.addEventListener("click",programar);
 citasBtn.addEventListener("click",citas);
 
 function programar(){
-    window.location.href="programarCitas.html";
+    window.location.href="programarCita.html";
 }
 
 function citas(){
